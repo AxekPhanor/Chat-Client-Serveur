@@ -1,0 +1,14 @@
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\bin\Debug\net8.0\Client.exe
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\bin\Debug\net8.0\Client.dll
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\obj\Debug\net8.0\Client.dll
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\axelp\Documents\Workspace\Cours HTS\Programmation réseau\TP\Client\obj\Debug\net8.0\ref\Client.dll
